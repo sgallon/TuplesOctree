@@ -5,7 +5,9 @@ Implemented are algorithms for the search of
 2. Pairs with an angle to the z axis
 3. Triangles
 4. Tetrahedra 
-## Literature
+## Reference & Literature
+[![DOI](https://zenodo.org/badge/938298476.svg)](https://doi.org/10.5281/zenodo.14929607)
+
 For more information see:
 
 Sebastian Gallon. "Multiparticle Dispersion and Irreversibility in Geophysical Turbulent Flows" PhD thesis. Ecole normale supérieure de Lyon, 2024. 
